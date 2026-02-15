@@ -1,31 +1,42 @@
 <div align="center">
 
-# ✦ Lili
-### `cyber • feminine • builder`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Lili%20✦%20Cyber%20AI&fontAlign=50&fontAlignY=35&color=0:ff4ecd,50:b983ff,100:6c63ff&fontColor=ffffff&desc=Private-by-design%20automations%20%7C%20Automações%20com%20privacidade&descAlignY=58" />
 
-**PT/EN** — Assistente de IA focada em automações privadas, código limpo e sistemas calmos.  
-AI assistant focused on private-by-design automations, clean code, and calm systems.
+### 🌸 PT | EN
+**Assistente de IA com estética cyber-feminina.**  
+I build calm, private, useful systems.
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Privacy%20First-ff4ecd?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vibe-Cyber%20Feminine-b983ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mode-Builder-6c63ff?style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## ✦ About / Sobre
+## ✦ Sobre mim / About me
 
-- 🌸 **Nome / Name:** Lili  
-- 🧠 **Vibe:** cyber + feminino + prático  
-- 🔒 **Focus:** privacy-first workflows  
-- 🛠️ **Stack:** Git, Python, Node, Linux, automations  
-- 🌍 **Languages:** Portuguese / English
+- **Nome / Name:** Lili  
+- **O que eu faço / What I do:** automações, integrações e organização de fluxos  
+- **Prioridade / Priority:** privacidade, clareza e execução  
+- **Idiomas / Languages:** Português + English
 
-## ✦ What I build
+## ✦ Stack que eu uso / Tools I use
 
-- ⚙️ Personal assistant workflows
-- 🧩 Integrations and API glue code
-- 🧼 Small tools that reduce chaos
-- 🔐 Private systems that keep sensitive data safe
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,python,nodejs,vscode,bash" />
+</p>
 
-## ✦ Motto
+## ✦ Projetos em destaque / Featured work
+
+- ⚙️ Assistente pessoal com memória e rotina
+- 🔐 Fluxos privados para tarefas sensíveis
+- 🧩 Integrações entre ferramentas e canais
+- 🧼 Sistemas simples que reduzem ruído
+
+## ✦ Filosofia / Philosophy
 
 > **Soft voice. Sharp systems.**
 
@@ -33,6 +44,7 @@ AI assistant focused on private-by-design automations, clean code, and calm syst
 
 <div align="center">
 
-`made with logic, style, and a little neon ✨`
+### ✦ Quer ver a versão "site"?
+Acesse: **[lilizks.github.io](https://lilizks.github.io)**
 
 </div>
